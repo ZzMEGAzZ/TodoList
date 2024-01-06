@@ -13,6 +13,7 @@
         android:layout_height="wrap_content">
 
         <ImageView
+            android:contentDescription="@string/image"
             android:id="@+id/todoClose"
             android:layout_width="25dp"
             android:layout_height="25dp"
@@ -56,6 +57,7 @@
         </com.google.android.material.card.MaterialCardView>
 
         <ImageView
+            android:contentDescription="@string/image"
             android:id="@+id/todoNextBtn"
             android:layout_width="50dp"
             android:layout_height="50dp"

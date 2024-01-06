@@ -9,6 +9,7 @@
 
 
     <ImageView
+        android:contentDescription="@string/image"
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="200dp"
@@ -20,6 +21,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
+        android:contentDescription="@string/image"
         android:id="@+id/imageView2"
         android:layout_width="60dp"
         android:layout_height="130dp"
@@ -31,6 +33,7 @@
 
 
     <ImageView
+        android:contentDescription="@string/image"
         android:id="@+id/imageView3"
         android:layout_width="0dp"
         android:layout_height="210dp"
@@ -134,6 +137,7 @@
 
 
     <ImageView
+        android:contentDescription="@string/image"
         android:id="@+id/nextBtn"
         android:layout_width="60dp"
         android:layout_height="60dp"
